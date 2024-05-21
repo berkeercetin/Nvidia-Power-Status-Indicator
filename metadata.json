@@ -1,0 +1,8 @@
+{
+  "name": "Nvidia Power State Indicator",
+  "description": "Monitor Nvidia Power State",
+  "uuid": "berkeercetin@gmail.com",
+  "shell-version": [
+    "46"
+  ]
+}
